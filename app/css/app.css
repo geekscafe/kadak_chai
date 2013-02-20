@@ -1,0 +1,100 @@
+[class^="app-glyphicons_"],
+[class*="app-glyphicons_"]{
+	display: inline-block;
+  	width: 14px;
+  	height: 14px;
+  	margin-top: 1px;
+  	*margin-right: .3em;
+  	line-height: 14px;
+  	vertical-align: text-top;
+	background: url("../img/sprite.png") no-repeat top left;
+}
+
+.app-glyphicons_001_leaf{ background-position: 0 0; width: 24px; height: 25px; } 
+.app-glyphicons_003_user{ background-position: 0 -75px; width: 23px; height: 22px; } 
+.app-glyphicons_004_girl{ background-position: 0 -147px; width: 22px; height: 22px; } 
+.app-glyphicons_006_user_add{ background-position: 0 -219px; width: 28px; height: 22px; } 
+.app-glyphicons_007_user_remove{ background-position: 0 -291px; width: 26px; height: 22px; } 
+.app-glyphicons_009_magic{ background-position: 0 -363px; width: 24px; height: 24px; } 
+.app-glyphicons_010_envelope{ background-position: 0 -437px; width: 24px; height: 16px; } 
+.app-glyphicons_012_heart{ background-position: 0 -503px; width: 24px; height: 22px; } 
+.app-glyphicons_015_print{ background-position: 0 -575px; width: 24px; height: 24px; } 
+.app-glyphicons_016_bin{ background-position: 0 -649px; width: 20px; height: 28px; } 
+.app-glyphicons_020_home{ background-position: 0 -727px; width: 27px; height: 26px; } 
+.app-glyphicons_024_parents{ background-position: 0 -803px; width: 32px; height: 22px; } 
+.app-glyphicons_025_binoculars{ background-position: 0 -875px; width: 24px; height: 24px; } 
+.app-glyphicons_027_search{ background-position: 0 -949px; width: 24px; height: 24px; } 
+.app-glyphicons_029_notes_2{ background-position: 0 -1023px; width: 20px; height: 27px; } 
+.app-glyphicons_030_pencil{ background-position: 0 -1100px; width: 24px; height: 24px; } 
+.app-glyphicons_032_wifi_alt{ background-position: 0 -1174px; width: 26px; height: 26px; } 
+.app-glyphicons_037_coins{ background-position: 0 -1250px; width: 26px; height: 24px; } 
+.app-glyphicons_040_stats{ background-position: 0 -1324px; width: 26px; height: 25px; } 
+.app-glyphicons_041_charts{ background-position: 0 -1399px; width: 27px; height: 24px; } 
+.app-glyphicons_042_pie_chart{ background-position: 0 -1473px; width: 26px; height: 25px; } 
+.app-glyphicons_043_group{ background-position: 0 -1548px; width: 35px; height: 22px; } 
+.app-glyphicons_044_keys{ background-position: 0 -1620px; width: 24px; height: 26px; } 
+.app-glyphicons_045_calendar{ background-position: 0 -1696px; width: 23px; height: 24px; } 
+.app-glyphicons_046_router{ background-position: 0 -1770px; width: 27px; height: 26px; } 
+.app-glyphicons_048_dislikes{ background-position: 0 -1846px; width: 25px; height: 24px; } 
+.app-glyphicons_049_star{ background-position: 0 -1920px; width: 25px; height: 24px; } 
+.app-glyphicons_050_link{ background-position: -85px 0; width: 21px; height: 23px; } 
+.app-glyphicons_051_eye_open{ background-position: -85px -73px; width: 31px; height: 17px; } 
+.app-glyphicons_053_alarm{ background-position: -85px -140px; width: 27px; height: 25px; } 
+.app-glyphicons_054_clock{ background-position: -85px -215px; width: 24px; height: 24px; } 
+.app-glyphicons_059_cargo{ background-position: -85px -289px; width: 25px; height: 26px; } 
+.app-glyphicons_062_paperclip{ background-position: -85px -365px; width: 26px; height: 24px; } 
+.app-glyphicons_063_power{ background-position: -85px -439px; width: 22px; height: 24px; } 
+.app-glyphicons_064_lightbulb{ background-position: -85px -513px; width: 20px; height: 26px; } 
+.app-glyphicons_065_tag{ background-position: -85px -589px; width: 24px; height: 24px; } 
+.app-glyphicons_066_tags{ background-position: -85px -663px; width: 30px; height: 24px; } 
+.app-glyphicons_071_book{ background-position: -85px -737px; width: 22px; height: 24px; } 
+.app-glyphicons_072_bookmark{ background-position: -85px -811px; width: 15px; height: 24px; } 
+.app-glyphicons_073_wifi{ background-position: -85px -885px; width: 31px; height: 23px; } 
+.app-glyphicons_076_headphones{ background-position: -85px -958px; width: 24px; height: 24px; } 
+.app-glyphicons_077_headset{ background-position: -85px -1032px; width: 24px; height: 28px; } 
+.app-glyphicons_081_refresh{ background-position: -85px -1110px; width: 25px; height: 26px; } 
+.app-glyphicons_082_roundabout{ background-position: -85px -1186px; width: 26px; height: 26px; } 
+.app-glyphicons_083_random{ background-position: -85px -1262px; width: 28px; height: 20px; } 
+.app-glyphicons_086_display{ background-position: -85px -1332px; width: 28px; height: 24px; } 
+.app-glyphicons_087_log_book{ background-position: -85px -1406px; width: 22px; height: 24px; } 
+.app-glyphicons_088_adress_book{ background-position: -85px -1480px; width: 22px; height: 24px; } 
+.app-glyphicons_120_message_full{ background-position: -85px -1554px; width: 24px; height: 28px; } 
+.app-glyphicons_121_message_empty{ background-position: -85px -1632px; width: 24px; height: 28px; } 
+.app-glyphicons_136_cogwheel{ background-position: -85px -1710px; width: 24px; height: 24px; } 
+.app-glyphicons_137_cogwheels{ background-position: -85px -1784px; width: 34px; height: 27px; } 
+.app-glyphicons_139_adjust_alt{ background-position: -85px -1861px; width: 23px; height: 24px; } 
+.app-glyphicons_170_step_backward{ background-position: -85px -1935px; width: 14px; height: 18px; } 
+.app-glyphicons_171_fast_backward{ background-position: -170px 0; width: 25px; height: 18px; } 
+.app-glyphicons_172_rewind{ background-position: -170px -68px; width: 23px; height: 18px; } 
+.app-glyphicons_173_play{ background-position: -170px -136px; width: 16px; height: 18px; } 
+.app-glyphicons_174_pause{ background-position: -170px -204px; width: 10px; height: 16px; } 
+.app-glyphicons_175_stop{ background-position: -170px -270px; width: 14px; height: 14px; } 
+.app-glyphicons_176_forward{ background-position: -170px -334px; width: 23px; height: 18px; } 
+.app-glyphicons_177_fast_forward{ background-position: -170px -402px; width: 25px; height: 18px; } 
+.app-glyphicons_178_step_forward{ background-position: -170px -470px; width: 14px; height: 18px; } 
+.app-glyphicons_190_circle_plus{ background-position: -170px -538px; width: 26px; height: 26px; } 
+.app-glyphicons_191_circle_minus{ background-position: -170px -614px; width: 26px; height: 26px; } 
+.app-glyphicons_192_circle_remove{ background-position: -170px -690px; width: 26px; height: 26px; } 
+.app-glyphicons_193_circle_ok{ background-position: -170px -766px; width: 26px; height: 26px; } 
+.app-glyphicons_194_circle_question_mark{ background-position: -170px -842px; width: 26px; height: 26px; } 
+.app-glyphicons_195_circle_info{ background-position: -170px -918px; width: 26px; height: 26px; } 
+.app-glyphicons_196_circle_exclamation_mark{ background-position: -170px -994px; width: 26px; height: 26px; } 
+.app-glyphicons_197_remove{ background-position: -170px -1070px; width: 26px; height: 26px; } 
+.app-glyphicons_198_ok{ background-position: -170px -1146px; width: 26px; height: 26px; } 
+.app-glyphicons_199_ban{ background-position: -170px -1222px; width: 26px; height: 26px; } 
+.app-glyphicons_200_download{ background-position: -170px -1298px; width: 26px; height: 26px; } 
+.app-glyphicons_201_upload{ background-position: -170px -1374px; width: 26px; height: 26px; } 
+.app-glyphicons_203_lock{ background-position: -170px -1450px; width: 21px; height: 26px; } 
+.app-glyphicons_204_unlock{ background-position: -170px -1526px; width: 21px; height: 26px; } 
+.app-glyphicons_205_electricity{ background-position: -170px -1602px; width: 11px; height: 24px; } 
+.app-glyphicons_206_ok_2{ background-position: -170px -1676px; width: 25px; height: 19px; } 
+.app-glyphicons_207_remove_2{ background-position: -170px -1745px; width: 18px; height: 18px; } 
+.app-glyphicons_210_left_arrow{ background-position: -170px -1813px; width: 20px; height: 18px; } 
+.app-glyphicons_211_right_arrow{ background-position: -170px -1881px; width: 20px; height: 18px; } 
+.app-glyphicons_212_down_arrow{ background-position: -170px -1949px; width: 18px; height: 20px; } 
+.app-glyphicons_213_up_arrow{ background-position: -255px 0; width: 18px; height: 20px; } 
+.app-glyphicons_216_circle_arrow_left{ background-position: -255px -70px; width: 26px; height: 26px; } 
+.app-glyphicons_217_circle_arrow_right{ background-position: -255px -146px; width: 26px; height: 26px; } 
+.app-glyphicons_218_circle_arrow_top{ background-position: -255px -222px; width: 26px; height: 26px; } 
+.app-glyphicons_219_circle_arrow_down{ background-position: -255px -298px; width: 26px; height: 26px; } 
+.app-glyphicons_264_vcard{ background-position: -255px -374px; width: 22px; height: 24px; } 
