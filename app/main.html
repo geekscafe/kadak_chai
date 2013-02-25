@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>An Example Application involving BootStrap, AngularJS, Flask and RethinkDB </title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="../devlibs/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="../devlibs/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="css/app.css" rel="stylesheet" media="screen">
+
+		<script src="../devlibs/jquery/jquery.min.js" charset="utf-8 async defer"></script>
+		<script src="../devlibs/bootstrap/js/bootstrap.min.js" charset="utf-8" async defer></script>
+	</head>
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span3 bs-docs-sidebar">
+				<ul class="nav nav-list bs-docs-sidenav">
+					<li>
+							<a href="#">
+								<span>Vendor 1</span>
+								<span class="pull-right"><i class="icon-chevron-right"></i></span>
+							</a>
+						</li>
+										
+						<li>
+							<a href="#">
+								<span>Vendor 2</span>
+								<span class="pull-right"><i class="icon-chevron-right"></i></span>
+							</a>
+						</li>
+					</a>
+				</ul>
+			</div>
+			<div class="span9 pull-right">
+				<div class="tabbable tabs-right">
+					<ul class="nav nav-tabs">
+						<li class="active"><a href="#t1" data-toggle="tab">Address</a></li>
+						<li><a href="#t2" data-toggle="tab">Invoices</a></li>
+						<li><a href="#t3" data-toggle="tab">Payments</a></li>
+					</ul>
+					<div class="tab-content">
+						<div class="tab-pane active" id="t1">
+							Address
+						</div>
+						<div class="tab-pane" id="t2">
+							Invoices
+						</div>
+						<div class="tab-pane" id="t3">
+							Payments
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</html>

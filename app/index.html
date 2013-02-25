@@ -7,15 +7,17 @@
 		<link rel="stylesheet" href="../devlibs/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
 		<link rel="stylesheet" href="css/app.css" rel="stylesheet" media="screen">
 
-		<script src="../devlibs/jquery/jquery.min.js" type="text/javascript" charset="utf-8" async defer></script>
-		<script src="../devlibs/bootstrap/js/bootstrap.min.js" type="text/javascript" charset="utf-8" async defer></script>
+		<script src="../devlibs/jquery/jquery.min.js" charset="utf-8 async defer"></script>
+		<script src="../devlibs/bootstrap/js/bootstrap.min.js" charset="utf-8" async defer></script>
 	</head>
 	<div class="container-fluid">
 		<div class="row-fluid">
 			<div class="span3">
 				<form class="form-search pull-right" action="#" method="get" accept-charset="utf-8">
-					<input type="text" class="input-large search-query" name="txtSearch" value="">
-					<button type="submit" class="btn btn-small">Search</button>
+					<div class="input-append">
+                        <input type="text" class="search-query" name="txtSearch">
+                        <button class="btn" type="button">Search</button>
+                    </div>
 				</form>
 				<table class="table table-striped table-hover gc-table-hover">
 						<tr>
